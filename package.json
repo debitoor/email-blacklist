@@ -1,6 +1,6 @@
 {
   "name": "email-blacklist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of commonly mispelled email domains",
   "main": "index.js",
   "scripts": {
