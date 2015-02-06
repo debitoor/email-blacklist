@@ -1,6 +1,6 @@
 # email-blacklist
 
-List of commonly mispelled email domains.
+List of commonly misspelled email domains.
 
 	npm install email-blacklist
 
