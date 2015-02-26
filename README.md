@@ -1,4 +1,4 @@
-# email-blacklist
+# email-blacklist [![Build Status](https://travis-ci.org/e-conomic/email-blacklist.svg?branch=master)](https://travis-ci.org/e-conomic/email-blacklist)
 
 List of commonly misspelled email domains.
 
