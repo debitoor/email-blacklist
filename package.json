@@ -4,7 +4,7 @@
   "description": "List of commonly misspelled email domains",
   "main": "index.js",
   "scripts": {
-    "test": "_mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
